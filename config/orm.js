@@ -1,5 +1,5 @@
 var connection = require('./connection.js');
-
+//PRETTY MUCH GRABBED THIS ENTIRE THING FROM THE CATS APP EXERCISE
 function printQuestionMarks(num) {
   var arr = [];
 
